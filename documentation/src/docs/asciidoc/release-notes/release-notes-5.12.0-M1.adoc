@@ -45,7 +45,7 @@ JUnit repository on GitHub.
     current worktree status are now included in the XML report, if applicable.
   - A section containing JUnit-specific metadata about each test/container to the HTML
     report is now written by open-test-reporting when added to the classpath/module path
-
+* Introduced kotlin contracts for kotlin assertion methods.
 
 [[release-notes-5.12.0-M1-junit-jupiter]]
 === JUnit Jupiter
